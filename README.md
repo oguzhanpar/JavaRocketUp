@@ -11,6 +11,6 @@ All the codes run with Java 19 with the preview features enabled.
 2. Variables
 
 
-## Install Eclipse
+## Install EclipseIDE
 
 [Download LTS Eclipse Here >](https://www.eclipse.org/downloads/)
