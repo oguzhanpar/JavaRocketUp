@@ -1,4 +1,4 @@
-# - JavaRocketUp Is A Handbook For JAVA 19 Beginners -
+# 🚀JavaRocketUp Is A Handbook For JAVA 19 Beginners
 
 
 This is a Work in progress, it should be ready when the next LTS of Java (Java 19) will be released.
